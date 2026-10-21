@@ -1,0 +1,17 @@
+{
+  "name": "biolib",
+  "owner": {
+    "name": "BioLib",
+    "email": "support@biolib.com"
+  },
+  "metadata": {
+    "description": "Plugins for using BioLib from AI coding agents."
+  },
+  "plugins": [
+    {
+      "name": "biolib",
+      "source": "./plugins/biolib",
+      "description": "Find and run BioLib apps from Python or the biolib CLI."
+    }
+  ]
+}

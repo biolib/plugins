@@ -1,0 +1,14 @@
+{
+  "name": "biolib",
+  "version": "0.1.0",
+  "description": "Find and run BioLib apps from Python or the biolib CLI.",
+  "author": {
+    "name": "BioLib",
+    "email": "support@biolib.com",
+    "url": "https://biolib.com"
+  },
+  "homepage": "https://biolib.com",
+  "repository": "https://github.com/biolib/plugins",
+  "license": "MIT",
+  "icon": "./assets/logo.png"
+}

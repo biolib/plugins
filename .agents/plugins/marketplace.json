@@ -1,0 +1,20 @@
+{
+  "name": "biolib",
+  "interface": {
+    "displayName": "BioLib"
+  },
+  "plugins": [
+    {
+      "name": "biolib",
+      "source": {
+        "source": "local",
+        "path": "./plugins/biolib"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Scientific Research"
+    }
+  ]
+}
