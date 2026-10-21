@@ -1,2 +1,2 @@
-# plugins
-BioLib AI plugin and skills
+# biolib-plugins
+Development version of https://github.com/biolib/plugins
